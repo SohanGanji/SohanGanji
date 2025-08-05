@@ -1,46 +1,42 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=700&lines=Hey!+I'm+Sohan+Ganji+👋;Engineering+Student+%7C+Developer+%7C+Debugging+Ninja;Doing+what+I+do+to+be+me+🔥" alt="HEY i'M SOHAN" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:191970,100:8A2BE2&height=200&section=header&text=Hey%20I'm%20Sohan%20Ganji%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
-</p>
-
----
-
-<h3 align="center">🚀 Engineering student on a mission to build cool tech and solve real-world problems.</h3>
-
----
-
-### 🧠 Languages & Tools I Know
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,mysql,git,github,vscode,linux&perline=7" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F8F8F8&center=true&vCenter=true&width=600&lines=Engineering+Student+%7C+Developer+%7C+Tech+Explorer;Debugging+My+Way+Through+Life;Doing+what+I+do+to+be+me+%F0%9F%94%A5"/>
 </p>
 
 ---
 
-### 🧰 Toolbox
+<h2 align="center">🌟 Tech Arsenal I Wield</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,sql,git,github,vscode,linux&perline=8" />
 </p>
 
 ---
 
-### 🌐 Let’s Connect
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:sohan.ganji2151@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/SohanGanji006"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sohan.ganji2151@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/SohanGanji006">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">🔥 Quote I Live By</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&center=true&vCenter=true&width=450&lines=Do+what+you+do+to+be+you!!"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFF00&center=true&vCenter=true&width=435&lines=Do+what+you+do+to+be+you!!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:191970&height=120&section=footer"/>
 </p>
-
