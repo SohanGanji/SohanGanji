@@ -20,10 +20,13 @@
 
 <p align="center">
   <a href="mailto:sohan.ganji2151@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" title="Gmail"/>
   </a>
   <a href="https://linkedin.com/in/SohanGanji006">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" title="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/sohanganji_">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" title="Instagram"/>
   </a>
 </p>
 
@@ -40,3 +43,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:191970&height=120&section=footer"/>
 </p>
+
