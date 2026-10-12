@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=SOHAN%20GANJI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:241044,100:A371F7&height=240&section=header&text=Sohan%20Ganji&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Building%20digital%20experiences&descSize=16&descAlignY=58" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=sohanganji">
