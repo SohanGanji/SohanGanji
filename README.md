@@ -13,7 +13,7 @@ html
 - CSE student at IIIT Nagpur, passionate about building functional and intuitive products.
 - Exploring frontend development and UI/UX design to turn ideas into real-world solutions.
 - Working with React, JavaScript, and Tailwind CSS.
-- Interested in Web3, product development, and collaborative projects.
+- Interested in Web2, product development, and collaborative projects.
 - Learning C++ and Data Structures & Algorithms.
 - Secured 2nd place at the IIT Roorkee Blockathon.
 - Always curious, building, and improving.
