@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=gradient&section=header&reversal=true&text=Sohan%20Ganji&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&desc=Building%20digital%20experiences&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=gradient&section=header&reversal=true&text=Sohan%20Ganji&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
 
 
 <p align="center">
