@@ -90,9 +90,9 @@
   <a href="https://wa.me/918459833983">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:sohan.ganji2151@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sohan.ganji2151@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email Sohan" width="40" />
+</a>
 </p>
 
 <picture>
