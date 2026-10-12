@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:241044,100:A371F7&height=240&section=header&text=Sohan%20Ganji&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Building%20digital%20experiences&descSize=16&descAlignY=58" width="100%"/>
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:241044,100:A371F7&height=240&section=header&text=Sohan%20Ganji&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Building%20digital%20experiences&descSize=16&descAlignY=58" width="100%"/>](https://capsule-render.vercel.app/api?type=pulse&height=300&color=gradient&section=header&reversal=true&text=Sohan+Ganji&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=sohanganji">
