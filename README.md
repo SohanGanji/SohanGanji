@@ -24,9 +24,7 @@
 ## GitHub Stats & Trophies
 
 <p align="center">
-  <a href="https://github.com/sohanganji">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sohanganji&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="sohanganji's GitHub Stats" />
-  </a>
+  
   <img src="https://streak-stats.demolab.com/?user=sohanganji&theme=dracula&hide_border=true&cache_seconds=86400" alt="sohanganji's GitHub Streak" width="49%" />
 </p>
 
