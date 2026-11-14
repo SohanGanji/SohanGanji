@@ -1,5 +1,7 @@
 
-<img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=gradient&section=header&reversal=true&text=Sohan%20Ganji&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=0:020024,50:090979,100:00D4FF&section=header&reversal=true&text=Sohan%20Ganji&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
+
 
 
 <p align="center">
