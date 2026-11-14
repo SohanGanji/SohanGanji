@@ -1,4 +1,11 @@
+
 <img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=gradient&section=header&reversal=true&text=Sohan%20Ganji&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
+
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=sohanganji">
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
@@ -12,26 +19,20 @@
 - Secured 2nd place at the IIT Roorkee Blockathon.
 - Always curious, building, and improving.
 
-## GitHub Stats
+## GitHub Stats & Trophies
 
 <p align="center">
-  <a href="https://github.com/sohanganji?tab=followers">
-    <img src="https://img.shields.io/github/followers/sohanganji?style=for-the-badge&logo=github&logoColor=white&color=bd93f9&labelColor=282a36" alt="Followers" />
-  </a>
-  <a href="https://github.com/sohanganji?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sohanganji&query=$.public_repos&label=Repos&style=for-the-badge&logo=github&logoColor=white&color=ff79c6&labelColor=282a36" alt="Public Repos" />
-  </a>
   <a href="https://github.com/sohanganji">
-    <img src="https://img.shields.io/github/stars/sohanganji?style=for-the-badge&logo=github&logoColor=white&color=50fa7b&labelColor=282a36" alt="Stars" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sohanganji&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="sohanganji's GitHub Stats" />
   </a>
+  <img src="https://streak-stats.demolab.com/?user=sohanganji&theme=dracula&hide_border=true&cache_seconds=86400" alt="sohanganji's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sohanganji&theme=dracula&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
+  <img src="https://trophy.ryglcloud.net/?username=sohanganji&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="SOHAN GANJI's GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/bd93f9/sohanganji" alt="Contribution Graph" width="90%" />
 </p>
 
 ## Languages & Tools
@@ -43,6 +44,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
 </p>
 
@@ -73,6 +75,12 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/sohanganji">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sohanganji&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
 ## Connect with Me
 
 <p align="center">
@@ -82,10 +90,16 @@
   <a href="https://wa.me/918459833983">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sohan.ganji2151@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email Sohan" width="40" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sohan.ganji2151@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email Sohan" width="40" />
+</a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
