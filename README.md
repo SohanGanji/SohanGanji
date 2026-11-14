@@ -74,18 +74,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
 </p>
 
-
-
-
-<p align="center">
-  <a href="https://github.com/sohanganji">
-    <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
-  </a>
-</p>
-
-
-
-
 ## Connect with Me
 
 <p align="center">
