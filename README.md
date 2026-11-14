@@ -46,7 +46,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
 </p>
 
@@ -78,11 +77,13 @@
 </p>
 
 
+
 <p align="center">
   <a href="https://github.com/sohanganji">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohanganji&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+
 
 
 ## Connect with Me
